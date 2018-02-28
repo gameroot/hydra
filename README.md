@@ -105,4 +105,3 @@ ecb1b6d2-9fc6-4ed3-8558-c9c52a57f8b7
 - Query, start and stop services
 - Deploy cross-compiled agent to server inventory using only ssh access
 - Manage selected services on AWS and Azure
-# hydra
